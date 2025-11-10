@@ -1,1 +1,10 @@
 # supermarketmanagementsystem
+The Supermarket Inventory & Billing Management System is a C-based software solution designed to simplify and automate the essential operations of small and medium retail stores. Traditional supermarket systems rely heavily on manual bookkeeping or complex, database-driven applications that are either inefficient or costly for smaller setups. This project bridges that gap by providing a lightweight, standalone application that efficiently manages inventory, billing, and sales reporting using fundamental programming concepts such as structures, arrays, file handling, and modular design in the C language.
+The primary goal of this project is to ensure accuracy, automation, and ease of use in everyday supermarket operations. The system allows administrators to manage items — including adding, editing, and viewing product details such as ID, name, price, and stock quantity — while automatically updating inventory levels after each sale. Customers can view available products, generate itemized bills with tax and discount calculations, and enjoy an engaging “Spin-the-Wheel” reward feature that offers random discounts or rewards, improving the user experience. All transactional data and item records are stored persistently in text files, ensuring reliability even after program closure.
+Key features of the system include:
+• Automation of billing and stock management to reduce manual workload.
+• Accurate and error-free transactions with real-time stock updates.
+• File-based data storage, removing the need for complex databases.
+• User-friendly console interface, accessible to both admins and customers.
+• Scalability, allowing future upgrades such as barcode integration or GUI implementation.
+The project’s development follows a systematic approach involving analysis, design, implementation, and validation, ensuring clarity of code and efficiency in operation. The bibliometric and literature reviews support the project’s design choice, confirming that file-based C programs remain effective educational and practical tools for small-scale automation.
